@@ -15,5 +15,6 @@ The React Compiler is not enabled on this template because of its impact on dev 
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
-## To Inform
+## Information
+Artificial intelligence assistants were used in the coding process of this project.
 This project was developed as a rapid prototype to test the capabilities of modern AI tools in Claude. The core architecture and coding process heavily utilized artificial intelligence assistants.

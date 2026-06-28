@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Finans Takip Pro</string>
+    <string name="title_activity_main">Finans Takip Pro</string>
+    <string name="package_name">com.maliali.finanstakip</string>
+    <string name="custom_url_scheme">com.maliali.finanstakip</string>
+</resources>
